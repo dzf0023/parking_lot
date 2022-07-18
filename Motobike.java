@@ -1,4 +1,4 @@
-public class Motobike entends Vehicle{
+public class Motobike extends Vehicle{
 	 public Motobike(){
 	 	super(VehicleType.SMALL);
 }
